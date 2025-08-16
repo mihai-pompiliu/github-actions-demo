@@ -1,2 +1,2 @@
-# github-actions-demo
-A demo repository for GitHub Actions.
+# Tic Tac Toe Game
+Learn GitHub Actions through a fun little game.
